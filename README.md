@@ -4,7 +4,7 @@ Netherstone is a free desktop app for documents and drawings. Each document is a
 
 ## Repositories
 
-| | |
+| Repository | About |
 | --- | --- |
 | [Netherstone](https://github.com/Netherstone-HQ/Netherstone) | The app, for Windows, macOS and Linux. Built with Tauri, React and Rust. GPL-3.0 |
 | [nethermark](https://github.com/Netherstone-HQ/nethermark) | A small Markdown editor built on CodeMirror 6, and an alternative to EasyMDE. On npm as `@netherstone/nethermark`. MIT |
